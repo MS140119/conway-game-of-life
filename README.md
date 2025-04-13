@@ -1,0 +1,1 @@
+Please down the latest verision of logisim first in order to view this file. After Logisim is downloaded you may then download this file and open it. https://github.com/logisim-evolution/logisim-evolution?tab=readme-ov-file#download
